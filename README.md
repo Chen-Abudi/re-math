@@ -26,7 +26,7 @@ This repository documents my journey with notes, exercises, problem-solving, sol
 ## Learning Strategy
 
 1. **Watch → Read → Solve → Reflect**
-2. Daily or weekly practice in your notebook
+2. Daily or weekly practice in notebook
 3. Commit progress regularly to GitHub
 4. Focus on deep understanding, not just speed
 5. Revisit old topics periodically to reinforce mastery
