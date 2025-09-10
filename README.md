@@ -16,6 +16,21 @@ This repository documents my journey with notes, exercises, problem-solving, sol
 - [ ] Arithmetic (fractions, decimals, percentages, ratios)
 - [ ] Pre-Algebra (integers, order of operations, simple equations)
 
+### Phase 2: Algebra
+
+- [ ] Algebra I (linear equations, graphing, quadratics, functions)
+- [ ] Algebra II (complex numbers, polynomials, logarithms)
+
+---
+
+## Learning Strategy
+
+1. **Watch → Read → Solve → Reflect**
+2. Daily or weekly practice in your notebook
+3. Commit progress regularly to GitHub
+4. Focus on deep understanding, not just speed
+5. Revisit old topics periodically to reinforce mastery
+
 ---
 
 ## Goals
@@ -25,6 +40,10 @@ This repository documents my journey with notes, exercises, problem-solving, sol
 - Build a strong math foundation for problem-solving & AI/ML work.
 
 - Share knowledge, insights, and feedback openly - this repo is both my notebook and a resource for others.
+
+---
+
+## 📝 Challenges / Notes
 
 ---
 
@@ -41,3 +60,12 @@ This repository documents my journey with notes, exercises, problem-solving, sol
 - _Calculus_ by James Stewart
 - _Linear Algebra_ by Gilbert Strang
 - _Discrete Mathematics and Its Application_ by Kenneth Rosen
+- [Art of Problem Solving](https://artofproblemsolving.com/)
+- [Brilliant.org](https://brilliant.org/)
+- [Project Euler](https://projecteuler.net/)
+
+---
+
+## 🔗 Contribution
+
+This is a personal learning journey, but feel free to **fork**, **comment**, or **suggest improvements** if you want to follow along or collaborate.
