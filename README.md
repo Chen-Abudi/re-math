@@ -1,9 +1,11 @@
 # 🧮 re-math
 
-This is my journey of re-learning mathematics from the ground up to expertise, for strengthening logic as a Software Engineer and future AI/ML work.
+This is my journey of re-learning math from the ground up to expertise, for sharping logic as a Software Engineer and future AI/ML work.
 
-> My journey of re-learning mathematics from the ground up to mastery, to sharpen logical thinking as a Software Engineer and prepare for future AI/ML work.
-> It'll be documented with notes, problem-solving, and practice in a math notebook and here in this repo.
+## Intro
+
+I'm re-learning mathematics from the ground up to strengthen my logical thinking, problem-solving abilities, as foundation for software engineering and future AI/ML work.
+This repository documents my journey with notes, exercises, problem-solving, solutions, explanations, practice in a math notebook, and progress tracking.
 
 ---
 
