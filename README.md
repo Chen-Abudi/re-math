@@ -26,11 +26,16 @@ This is my journey of re-learning mathematics from the ground up to expertise, f
 
 ---
 
-## Process Log
+## 📌 Process Log
+
+- **[2025-09-]** Started the journey
 
 ---
 
-## 🔗 Resources
+## 🔗 Some Resources
 
 - [Khan Academy](https://www.khanacademy.org/)
 - [MIT OpenCourseWare](https://ocw.mit.edu/)
+- _Calculus_ by James Stewart
+- _Linear Algebra_ by Gilbert Strang
+- _Discrete Mathematics and Its Application_ by Kenneth Rosen
