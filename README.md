@@ -43,6 +43,12 @@ This repository documents my journey with notes, exercises, problem-solving, sol
 
 ---
 
+## Problem-Solving Templates
+
+See [TEMPLATES.md](./TEMPLATES.md) for reusable structures.
+
+---
+
 ## 📝 Challenges / Notes
 
 ---
