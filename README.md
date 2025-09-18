@@ -13,13 +13,26 @@ This repository documents my journey with notes, exercises, problem-solving, sol
 
 ### Phase 1: Foundations
 
-- [ ] Arithmetic (fractions, decimals, percentages, ratios)
-- [ ] Pre-Algebra (integers, order of operations, simple equations)
+- [**In progress**] Arithmetic (fractions, decimals, percentages, ratios)
+- [**In progress**] Pre-Algebra (integers, order of operations, simple equations)
 
 ### Phase 2: Algebra
 
 - [ ] Algebra I (linear equations, graphing, quadratics, functions)
 - [ ] Algebra II (complex numbers, polynomials, logarithms)
+
+---
+
+### Phase 3: Geometry & Trigonometry
+
+- Geometry (shapes, theorems, coordinate geometry)
+- Trigonometry (identities, laws of sines/cosines)
+
+---
+
+- **notes.md** → definitions, formulas, explanations
+- **exercises.md** → problems to solve
+- **solutions/** → detailed worked-out solutions
 
 ---
 
@@ -30,6 +43,14 @@ This repository documents my journey with notes, exercises, problem-solving, sol
 3. Commit progress regularly to GitHub
 4. Focus on deep understanding, not just speed
 5. Revisit old topics periodically to reinforce mastery
+
+---
+
+## Progress Tracker
+
+| Phase | Topics                   | Status      |
+| ----- | ------------------------ | ----------- |
+| 1     | Arithmetic & Pre-Algebra | In Progress |
 
 ---
 
@@ -55,7 +76,7 @@ See [TEMPLATES.md](./TEMPLATES.md) for reusable structures.
 
 ## 📌 Process Log
 
-- **[2025-09-]** Started the journey
+- **[2025-09-13]** Started the journey
 
 ---
 
