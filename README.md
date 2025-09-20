@@ -9,6 +9,25 @@ This repository documents my journey with notes, exercises, problem-solving, sol
 
 ---
 
+## Prerequisites & Tools
+
+- Basic computer literacy
+- Physical notebook for practice
+- Calculator (scientific recommend)
+- Internet access for online resources
+
+---
+
+## How to Use This Repository
+
+- **notes.md** → definitions, formulas, explanations
+- **exercises.md** → problems to solve
+- **solutions/** → detailed worked-out solutions
+- Follow the roadmap phases sequentially
+- Check progress tracker for current status
+
+---
+
 ## 📚 Roadmap
 
 ### Phase 1: Foundations
@@ -30,12 +49,6 @@ This repository documents my journey with notes, exercises, problem-solving, sol
 
 ---
 
-- **notes.md** → definitions, formulas, explanations
-- **exercises.md** → problems to solve
-- **solutions/** → detailed worked-out solutions
-
----
-
 ## Learning Strategy
 
 1. **Watch → Read → Solve → Reflect**
@@ -43,6 +56,22 @@ This repository documents my journey with notes, exercises, problem-solving, sol
 3. Commit progress regularly to GitHub
 4. Focus on deep understanding, not just speed
 5. Revisit old topics periodically to reinforce mastery
+
+---
+
+## Study Schedule
+
+- **Time Commitment:** 1-2 hours daily
+- **Weekly Goals:** Complete at least 2-3 topics per phase
+- **Review Schedule:** Weekly review of previous topics
+
+---
+
+## Tools & Software
+
+- **Graphing:** Desmos, GeoGebra
+- **Notes:** Physical notebook + digital markdown
+- **Practice:** Khan Academy exercises
 
 ---
 
@@ -74,6 +103,15 @@ See [TEMPLATES.md](./TEMPLATES.md) for reusable structures.
 
 ---
 
+## 💡 Key Insights & Reflections
+
+- Document "aha!" moments here
+- Common mistakes and solutions
+- What's working vs what's challenging
+- Learning pattern observations
+
+---
+
 ## 📌 Process Log
 
 - **[2025-09-13]** Started the journey
@@ -90,6 +128,14 @@ See [TEMPLATES.md](./TEMPLATES.md) for reusable structures.
 - [Art of Problem Solving](https://artofproblemsolving.com/)
 - [Brilliant.org](https://brilliant.org/)
 - [Project Euler](https://projecteuler.net/)
+
+---
+
+## 🤝🏽 Community & Accountability
+
+- Open to study partners and feedback
+- Follow progress through commit history
+- Suggestions welcome via issues/discussions
 
 ---
 
