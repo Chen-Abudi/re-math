@@ -77,9 +77,9 @@ This repository documents my journey with notes, exercises, problem-solving, sol
 
 ## Progress Tracker
 
-| Phase | Topics                   | Status      |
-| ----- | ------------------------ | ----------- |
-| 1     | Arithmetic & Pre-Algebra | In Progress |
+| Phase | Topics                   | Status          |
+| ----- | ------------------------ | --------------- |
+| 1     | Arithmetic & Pre-Algebra | **In Progress** |
 
 ---
 
@@ -99,9 +99,9 @@ See [TEMPLATES.md](./TEMPLATES.md) for reusable structures.
 
 ---
 
-## 📝 Challenges / Notes
+<!-- ## 📝 Challenges / Notes
 
----
+--- -->
 
 ## 💡 Key Insights & Reflections
 
