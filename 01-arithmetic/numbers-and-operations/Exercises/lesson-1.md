@@ -1,6 +1,6 @@
 <!-- problems to solve -->
 
-# Course: Numbers & Operations - Unit 3
+## Unit 3
 
 ## Lesson 1: Converting fractions to decimals
 

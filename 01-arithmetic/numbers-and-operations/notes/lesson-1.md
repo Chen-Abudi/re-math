@@ -12,8 +12,8 @@
 
 For step by step reasoning:
 
-- [Decimal → Fraction Conversion](../TEMPLATES.md#1-decimal--fraction-conversion)
-- [Fraction Simplification](../TEMPLATES.md#2-fraction-simplification)
+- [Decimal → Fraction Conversion](../../../TEMPLATES.md#1-decimal--fraction-conversion)
+- [Fraction Simplification](../../../TEMPLATES.md#2-fraction-simplification)
 
 ### Problem 1: Express 19.07 as a mixed number
 
