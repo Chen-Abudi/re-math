@@ -99,9 +99,9 @@ See [TEMPLATES.md](./TEMPLATES.md) for reusable structures.
 
 ---
 
-<!-- ## 📝 Challenges / Notes
+## 📝 Challenges / Notes
 
---- -->
+---
 
 ## 💡 Key Insights & Reflections
 
