@@ -59,3 +59,20 @@ Now, I can compare all the three numbers as decimals:
 From looking at the numbers, **_0.85_** appear to be the smallest, then **_0.888...(8/9)_**, and finally **_0.92_ is the largest**.
 
 So the correct order from the least to the greatest is: **0.85, 8/9, 0.92**.
+
+### Problem 4: Enter the answer as an exact decimal or simplified fraction.
+
+-100% + 0.58
+
+I look at the problem and it has a percentage and a decimal, so the first step to do is to put them in the same form type.
+Since **0.58** is already a decimal, I'll convert the percentage into a decimal as well.
+
+So, -100% means that -100 ÷ 100 = -1
+
+Now, I'll just add them together:
+-1 + 0.58 = -0.42
+
+Then the final answer is -0.42 (The exact decimal).
+As for a fraction, it can be written as -0.42 = -42/100, and even simplify it to -21/50.
+
+So the answer can be either **-0.42** or simplifying it to **-21/50**

@@ -24,3 +24,7 @@
 - 0.92
 - 0.85
 - 8/9
+
+4. Enter the answer as an exact decimal or simplified fraction.
+
+-100% + 0.58

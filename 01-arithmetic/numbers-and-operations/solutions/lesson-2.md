@@ -27,3 +27,12 @@
 - 8/9
 
 **Answer: from the least - 0.85, 8/9, to the greatest - 0.92**
+
+### Problem 4: Enter the answer as an exact decimal or simplified fraction.
+
+-100% + 0.58
+
+- -100 ÷ 100 = -1
+- -1 + 0.58 = -0.42
+
+**Answer: -100% + 0.58 = -0.42**
