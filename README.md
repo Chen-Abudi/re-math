@@ -117,6 +117,7 @@ See [TEMPLATES.md](./TEMPLATES.md) for reusable structures.
 - **[2025-09-13]** Started the journey
 - **[2025-09-26]** Added exercises, solutions, and notes for adding & subtracting rational numbers (Arithmetic).
 - **[2025-09-30]** Added problem solution to adding and subtracting rational numbers.
+- **[September-December]** Also being practicing everyday on Duolingo, Brilliant, and notebook
 - **[2025-12-30]** Added visual arithmetic exploration notebooks.
 
 ---
