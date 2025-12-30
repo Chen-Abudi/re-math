@@ -7,6 +7,32 @@ This is my journey of re-learning math from the ground up to expertise, for shar
 I'm re-learning mathematics from the ground up to strengthen my logical thinking, problem-solving abilities, as foundation for software engineering and future AI/ML work.
 This repository documents my journey with notes, exercises, problem-solving, solutions, explanations, practice in a math notebook, and progress tracking.
 
+## Table of Contents
+
+- [🧮 re-math](#-re-math)
+  - [Intro](#intro)
+  - [Table of Contents](#table-of-contents)
+  - [Prerequisites \& Tools](#prerequisites--tools)
+  - [How to Use This Repository](#how-to-use-this-repository)
+  - [📚 Roadmap](#-roadmap)
+    - [Phase 1: Foundations](#phase-1-foundations)
+    - [Phase 2: Algebra](#phase-2-algebra)
+    - [Phase 3: Geometry \& Trigonometry](#phase-3-geometry--trigonometry)
+    - [Phase 4: Calculus](#phase-4-calculus)
+    - [Phase 5: Linear Algebra \& Statistics](#phase-5-linear-algebra--statistics)
+    - [Phase 6: Advanced Topics (AI/ML Focus)](#phase-6-advanced-topics-aiml-focus)
+  - [Learning Strategy](#learning-strategy)
+  - [Study Schedule](#study-schedule)
+  - [Tools \& Software](#tools--software)
+  - [Progress Tracker](#progress-tracker)
+  - [Goals](#goals)
+  - [Problem-Solving Templates](#problem-solving-templates)
+  - [💡 Key Insights \& Reflections](#-key-insights--reflections)
+  - [📌 Process Log](#-process-log)
+  - [🔗 Some Resources](#-some-resources)
+  - [🤝🏽 Community \& Accountability](#-community--accountability)
+  - [Contribution](#contribution)
+
 ---
 
 ## Prerequisites & Tools
@@ -172,6 +198,6 @@ See [TEMPLATES.md](./TEMPLATES.md) for reusable structures.
 
 ---
 
-## 🔗 Contribution
+## Contribution
 
 This is a personal learning journey, but feel free to **fork**, **comment**, or **suggest improvements** if you want to follow along or collaborate.
