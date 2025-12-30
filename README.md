@@ -15,6 +15,7 @@ This repository documents my journey with notes, exercises, problem-solving, sol
 - Physical notebook for practice
 - Calculator (scientific recommend)
 - Internet access for online resources
+- Python 3.x (for Jupyter notebooks)
 
 ---
 
@@ -23,6 +24,7 @@ This repository documents my journey with notes, exercises, problem-solving, sol
 - **notes.md** → definitions, formulas, explanations
 - **exercises.md** → problems to solve
 - **solutions/** → detailed worked-out solutions
+- **notebooks/** → Jupyter notebooks for visual exploration
 - Follow the roadmap phases sequentially
 - Check progress tracker for current status
 
@@ -44,8 +46,34 @@ This repository documents my journey with notes, exercises, problem-solving, sol
 
 ### Phase 3: Geometry & Trigonometry
 
-- Geometry (shapes, theorems, coordinate geometry)
-- Trigonometry (identities, laws of sines/cosines)
+- [ ] Geometry (shapes, theorems, coordinate geometry)
+- [ ] Trigonometry (identities, laws of sines/cosines)
+
+---
+
+### Phase 4: Calculus
+
+- [ ] Pre-Calculus (functions, limits, sequences)
+- [ ] Calculus I (derivatives, applications)
+- [ ] Calculus II (integrals, series)
+- [ ] Calculus III (multivariable calculus)
+
+---
+
+### Phase 5: Linear Algebra & Statistics
+
+- [ ] Linear Algebra (vectors, matrices, eigenvalues)
+- [ ] Statistics & Probability (distributions, hypothesis testing)
+- [ ] Discrete Mathematics (logic, sets, combinatorics)
+
+---
+
+### Phase 6: Advanced Topics (AI/ML Focus)
+
+- [ ] Differential Equations
+- [ ] Optimization Theory
+- [ ] Information Theory
+- [ ] Mathematical Foundations of ML
 
 ---
 
@@ -70,8 +98,9 @@ This repository documents my journey with notes, exercises, problem-solving, sol
 ## Tools & Software
 
 - **Graphing:** Desmos, GeoGebra
-- **Notes:** Physical notebook + digital markdown
-- **Practice:** Khan Academy exercises
+- **Notes:** Physical notebook + digital markdown.
+- **Practice:** Khan Academy exercises, Duolingo app, Brilliant app, and my notebook.
+- **Programming:** Python, Jupyter Notebook (for visual exploration).
 
 ---
 
@@ -117,7 +146,7 @@ See [TEMPLATES.md](./TEMPLATES.md) for reusable structures.
 - **[2025-09-13]** Started the journey
 - **[2025-09-26]** Added exercises, solutions, and notes for adding & subtracting rational numbers (Arithmetic).
 - **[2025-09-30]** Added problem solution to adding and subtracting rational numbers.
-- **[September-December]** Also being practicing everyday on **_Duolingo_**, **_Brilliant_**, **_Khan Academy_**, and **_notebook_**.
+- **[September-December]** Also being practicing everyday on **_Duolingo_**, **_Brilliant_**, **_Khan Academy_**, and my **_notebook_**.
 - **[2025-12-30]** Added visual arithmetic exploration notebooks.
 
 ---
