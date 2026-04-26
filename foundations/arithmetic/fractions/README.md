@@ -19,3 +19,9 @@ A fraction represents a part of a whole.
 
 Fractions are ratios.
 They describe relationships between quantities.
+
+## Content Ideas
+
+- Why fractions are misunderstood
+- Common mistakes when adding fractions
+- Fractions as ratios in real life (money, cooking)
